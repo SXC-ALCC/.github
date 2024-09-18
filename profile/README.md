@@ -18,15 +18,32 @@ Here are some of the core technologies our club members actively work with:
 
 ### Frameworks & Libraries:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+
+### Full-Stack Development:
+- **MERN Stack**: 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+- **MEAN Stack**: 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ---
 
