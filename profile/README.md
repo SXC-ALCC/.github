@@ -91,7 +91,7 @@ Make sure to check them out and contribute!
 ## 📂 Repository Structure
 This organization contains all of the club’s ongoing projects. Explore, contribute, and enhance your skills while collaborating with fellow members.
 
-For any internal queries, feel free to reach out through our designated communication channels.
+For any internal queries, feel free to reach out through our [Email](mailto:alcc@sxc.edu.np)
 
 ---
 
