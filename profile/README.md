@@ -96,4 +96,4 @@ For any internal queries, feel free to reach out through our [Email](mailto:alcc
 ---
 
 ## 🌐 Stay Connected!
-Follow us on social media and join our Discord for the latest updates
+Follow us on social media  for the latest updates!
