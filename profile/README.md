@@ -78,7 +78,7 @@ This is our dedicated space for collaboration, where club members develop and sh
 
 ## 🎉 Hacktoberfest 2024 🎉
 
-Join us for **Hacktoberfest 2024**! Contribute to open-source projects and earn your limited edition T-shirt. 
+Join us for **Hacktoberfest 2024**! Contribute to open-source projects!
 
 ### Current Repositories:
 - [**Collescope**](https://github.com/SXC-ALCC/collescope) - A collaborative project aimed at enhancing your coding skills and learning from each other.
