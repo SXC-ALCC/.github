@@ -26,6 +26,7 @@ This is our dedicated space for collaboration, where club members develop and sh
   <img src="https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/>
 </p>
 
 ---
